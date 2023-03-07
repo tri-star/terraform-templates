@@ -1,0 +1,5 @@
+ecr_repo_name = "some-ecr-repo"
+ecr_url       = "nnnnnnnnnn.dkr.ecr.us-west-1.amazonaws.com/some-ecr-repo:latest"
+
+github_https_url       = "https://github.com/someone/repo.git"
+github_repository_name = "someone/repo"

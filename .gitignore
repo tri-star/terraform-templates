@@ -1,0 +1,3 @@
+.terraform
+/ecs-with-blue-green/main.tf
+/ecs-with-blue-green/terraform.tfvars
